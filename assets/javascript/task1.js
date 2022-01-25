@@ -1,6 +1,9 @@
 /* Put code for the task below */
-function functionName(){
-	alert("Run My Stuff");
-	
-	
+function task1(){
+	var text = document.getElementById("task1");
+	button.style.display = "block";
+}
+function byeBye(){
+	var image = document.getElementById("imageTask1")
+	image.style.display = "none";
 }
